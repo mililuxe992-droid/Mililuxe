@@ -1,0 +1,88 @@
+{
+  "name": "Mililuxe Nails SPA",
+  "address": "Mukuyu, Opposite Soko ya Mbuzi",
+  "phone": "0790220434",
+  "email": "mililuxe992@gmail.com",
+  "services": {
+    "Gel Services": [
+      [
+        "Gel Polish",
+        300
+      ],
+      [
+        "Tips Fixing",
+        600
+      ],
+      [
+        "Stick-ons",
+        550
+      ]
+    ],
+    "Builder Services": [
+      [
+        "Builder Overlay",
+        500
+      ],
+      [
+        "Tips + Builder",
+        800
+      ],
+      [
+        "Builder Sculpting",
+        900
+      ]
+    ],
+    "Polygel Services": [
+      [
+        "Polygel Overlay",
+        1000
+      ],
+      [
+        "Polygel + Tips",
+        1300
+      ],
+      [
+        "Polygel Sculpting",
+        1400
+      ]
+    ],
+    "Acrylic Services": [
+      [
+        "Acrylic Overlay",
+        900
+      ],
+      [
+        "Acrylic Sculpting",
+        1200
+      ]
+    ],
+    "Cat Eye Services": [
+      [
+        "Cat Eye + Tips",
+        800
+      ],
+      [
+        "Cat Eye + Gel Polish",
+        500
+      ]
+    ],
+    "Nail & Spa Combos": [
+      [
+        "Pedicure",
+        400
+      ],
+      [
+        "Manicure",
+        300
+      ],
+      [
+        "Pedicure + Gel Polish",
+        600
+      ],
+      [
+        "Manicure + Gel Polish",
+        500
+      ]
+    ]
+  }
+}
